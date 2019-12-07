@@ -9,5 +9,6 @@ public class Factorial{
             output *= i;
         }
         System.out.println(output);
+        scan.close();
     }
 }
